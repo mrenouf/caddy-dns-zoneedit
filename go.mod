@@ -6,4 +6,4 @@ require github.com/libdns/libdns v1.0.0
 
 require github.com/caddyserver/caddy/v2 v2.8.4 // indirect
 
-require github.com/mrenouf/libdns-zoneedit v0.1.0 // indirect
+require github.com/mrenouf/libdns-zoneedit v0.1.1 // indirect
